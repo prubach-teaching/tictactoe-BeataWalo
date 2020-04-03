@@ -16,7 +16,7 @@ public class TicTacToe {
 
         while (scanner.hasNextLine()) {
 
-            ArrayList<Integer> l = new ArrayList<Integer>();
+            ArrayList<Integer> l = new ArrayList<>();
             l.add(0);
             l.add(0);
             l.add(0);
